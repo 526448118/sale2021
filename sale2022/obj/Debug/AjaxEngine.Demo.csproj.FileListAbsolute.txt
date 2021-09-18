@@ -1,0 +1,15 @@
+D:\C#code\AjaxEngine-master\AjaxEngine-master\AjaxEngine.Demo\bin\AjaxEngine.Demo.dll.config
+D:\C#code\AjaxEngine-master\AjaxEngine-master\AjaxEngine.Demo\bin\AjaxEngine.Demo.dll
+D:\C#code\AjaxEngine-master\AjaxEngine-master\AjaxEngine.Demo\bin\AjaxEngine.Demo.pdb
+D:\C#code\AjaxEngine-master\AjaxEngine-master\AjaxEngine.Demo\bin\AjaxEngine.dll
+D:\C#code\AjaxEngine-master\AjaxEngine-master\AjaxEngine.Demo\bin\AjaxEngine.pdb
+D:\C#code\AjaxEngine-master\AjaxEngine-master\AjaxEngine.Demo\obj\Debug\AjaxEngine.Demo.csprojAssemblyReference.cache
+D:\C#code\AjaxEngine-master\AjaxEngine-master\AjaxEngine.Demo\obj\Debug\Interop.CERTCLILib.dll
+D:\C#code\AjaxEngine-master\AjaxEngine-master\AjaxEngine.Demo\obj\Debug\Interop.CERTENCODELib.dll
+D:\C#code\AjaxEngine-master\AjaxEngine-master\AjaxEngine.Demo\obj\Debug\Interop.CERTENROLLLib.dll
+D:\C#code\AjaxEngine-master\AjaxEngine-master\AjaxEngine.Demo\obj\Debug\AjaxEngine.Demo.csproj.ResolveComReference.cache
+D:\C#code\AjaxEngine-master\AjaxEngine-master\AjaxEngine.Demo\obj\Debug\AjaxEngine.Demo.csproj.CoreCompileInputs.cache
+D:\C#code\AjaxEngine-master\AjaxEngine-master\AjaxEngine.Demo\obj\Debug\AjaxEngine.Demo.csproj.CopyComplete
+D:\C#code\AjaxEngine-master\AjaxEngine-master\AjaxEngine.Demo\obj\Debug\AjaxEngine.Demo.dll
+D:\C#code\AjaxEngine-master\AjaxEngine-master\AjaxEngine.Demo\obj\Debug\AjaxEngine.Demo.pdb
+D:\C#code\AjaxEngine-master\AjaxEngine-master\AjaxEngine.Demo\bin\Oracle.ManagedDataAccess.dll
